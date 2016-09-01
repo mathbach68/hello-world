@@ -1,5 +1,6 @@
 # hello-world
+_______________
 
-hello, my name is matt and i love julia
+hello, my name is matt and I love Julia
 
-i also play bike polo
+I also play bike polo
